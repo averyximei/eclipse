@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author liuximei
+ *
+ */
+module hello {
+}
